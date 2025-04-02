@@ -1,4 +1,4 @@
 # HandsOff Posters
-By Juhan Sonin, Shirley Xu, Harry Sleeper
+By Juhan Sonin
 
 CC0 license
